@@ -1,0 +1,17 @@
+{
+    "name": "yonosoft/navlara",
+    "description": "This is a simple laravel package for menu navigator. This is useful for admin packages.",
+    "type": "library",
+    "require": {
+        "php": "5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Kumar",
+            "email": "rahulverma.rkv@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
